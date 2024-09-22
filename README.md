@@ -80,6 +80,12 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+  <a href="https://www.jointjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fc62f284-2923-44e9-aed2-0232bc7c5533.png?w=128&h=128&fit=max&dpr=3&auto=format&q=50" alt="jointJs" width="40" height="40"/>
+  </a>
+  <a href="https://d3js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+  </a>
 </p>
 
 #### Style and Design:
